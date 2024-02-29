@@ -1,0 +1,7 @@
+environment:
+  name: HCE_Test
+  identifier: HCE_Test
+  accountId: orv1bLgZQ66nXOq0an6tjA
+  orgIdentifier: default
+  projectIdentifier: default_project
+  type: PreProduction
